@@ -1,0 +1,4 @@
+- 👋 Hi, My self Salony Sonawa , I'm pursuing B.Tech (4rth year) from Ratlam(MP).
+- 👀 I’m interested and well versed with C, C++, PYHTON, DJNAGO, HTML, CSS & JAVASCRIPT.
+- 🌱 I’m currently learning Angular and React (JS FrameWork).
+- 📫 Contact me using mail on - salonyysonava@gmail.com
