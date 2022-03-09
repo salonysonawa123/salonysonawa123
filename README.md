@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular and React (JS FrameWork).
 - 📫 Contact me using mail on - salonyysonava@gmail.com
 
------------ My Personal Project Link -----------
+----------- My Personal Project On Django (Python)  -----------
 - http://blog-me2.herokuapp.com/
 - http://todo-list-74.herokuapp.com/
 - http://nakstrasolution.herokuapp.com/
