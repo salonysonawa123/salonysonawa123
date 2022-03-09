@@ -2,6 +2,7 @@
 - 👀 I’m interested and well versed with C, C++, PYHTON, DJNAGO, HTML, CSS & JAVASCRIPT.
 - 🌱 I’m currently learning Angular and React (JS FrameWork).
 - 📫 Contact me using mail on - salonyysonava@gmail.com
+
 ----------- My Personal Project Link -----------
 - http://blog-me2.herokuapp.com/
 - http://todo-list-74.herokuapp.com/
